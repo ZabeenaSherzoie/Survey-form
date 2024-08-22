@@ -17,10 +17,7 @@ body {
     margin: 8px;
 }
 
-body {
-    display: block;
-    margin: 8px;
-}
+
 
 body::before {
     content: '';
